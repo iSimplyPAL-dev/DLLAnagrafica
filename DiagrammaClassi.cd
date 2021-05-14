@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Anagrafica.DLL.ExceptionAnagrafica" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GetListaContatti" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAQACAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GetList" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAEAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.DettaglioAnagraficaReturn" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>AAAAAAEAAAAAABAAACAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.RicercaComune" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>AAAAAEAAAAAIAAAQAAAAAAAgAAIgAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.DettaglioAnagrafica" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>WosjYAdPw9AwEmhpdiBgDoUD4DzVdMMpiYFHKKMdMeM=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GestioneAnagrafica" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Anagrafica.vb</FileName>
+      <HashCode>EAEIABAQAIDAAAAg6QAYAFEACQAwAAAAIAQmAMAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.ControlliCFPI" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ControlliCFPI.vb</FileName>
+      <HashCode>AIAAAAAQAAJBBAAAAIAAAAAAAABAAAAAIAAAAAADAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.Costanti" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Costanti.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACBABBAAAABAAAAAACAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.CRUD" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CRUD.vb</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAABAAAAAAAAAAAAACAAAAAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.DataSetContatti" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataSetContatti.vb</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAEAACAEAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.getDBobject" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DBAccess.vb</FileName>
+      <HashCode>iAAABAIAAAAAAEAAQAEQEBBAAgAAAABAAAAAIBAAABE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.dsContatti" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>dsContatti.vb</FileName>
+      <HashCode>AAAAAAAAAwAAACMAAAAAAAAAAAAAQBAAAAAAAAMABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GestDate" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GestDate.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GestError" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GestError.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAMAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.ObjectDifference" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ObjectDifference.vb</FileName>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAEAAAACAAAAECAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.GetListaIndirizziStorici" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Storico.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAEAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.Storico" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Storico.vb</FileName>
+      <HashCode>AAAAQBAQAABAAAAgCAAAAAEAAAAAAAAAAAAEAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anagrafica.DLL.Utility" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utility.vb</FileName>
+      <HashCode>AAAAAAQAABAAgEAgCAAAABEEgIAIAAAAAEAAAAAAAQg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Anagrafica.DLL.UpdateRecordStatus" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Enumeratore.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAASAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Anagrafica.DLL.InsertRecordStatus" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Enumeratore.vb</FileName>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
